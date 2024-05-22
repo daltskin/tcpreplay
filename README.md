@@ -79,7 +79,8 @@ for detailed download and installation instructions.
 Simple directions for Unix users:
 ---------------------------------
 ```
-./configure 
+sudo ./autogen.sh 
+sudo ./configure 
 make
 sudo make install
 ```
